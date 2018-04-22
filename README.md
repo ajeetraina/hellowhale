@@ -1,2 +1,3 @@
 # hellowhale
-Simple Docker Demo App
+
+This is built for demo purpose.
