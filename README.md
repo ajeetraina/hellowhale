@@ -2,7 +2,10 @@
 
 This is built for demo purpose.
 
-# How to use it for your demo purpose:
+Pre-requisite
+
+- Install Docker
+
 
 ## Clone the Repository
 
