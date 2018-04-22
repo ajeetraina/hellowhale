@@ -1,6 +1,6 @@
 # hellowhale
 
-This is built for demo purpose.
+This is built for a quick demonstration.
 
 Pre-requisite
 
